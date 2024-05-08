@@ -1,8 +1,8 @@
 ### Olá! Eu sou Rodrigo Lisboa 👋
 
-- 🌱 Estudando JavaScript
-- 👯 Procurando por vagas no ramo da tecnologia
-- 😄 Pronouns: ele/dele
+-  Estudando JavaScript
+-  Procurando por vagas no ramo da tecnologia
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
